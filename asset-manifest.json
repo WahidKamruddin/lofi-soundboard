@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lofi-soundboard/static/css/main.4da6cb42.css",
+    "main.js": "/lofi-soundboard/static/js/main.218c7841.js",
+    "index.html": "/lofi-soundboard/index.html",
+    "main.4da6cb42.css.map": "/lofi-soundboard/static/css/main.4da6cb42.css.map",
+    "main.218c7841.js.map": "/lofi-soundboard/static/js/main.218c7841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da6cb42.css",
+    "static/js/main.218c7841.js"
+  ]
+}
